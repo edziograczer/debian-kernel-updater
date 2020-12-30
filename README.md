@@ -1,2 +1,2 @@
 # debian-kernel-updater
-updateuje kernel do najnowszego stabilnego na dystrybucjach debianopodbnych
+updateuje kernel do najnowszego stabilnego na dystrybucjach ubuntupodobnych
