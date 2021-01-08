@@ -6,4 +6,4 @@ if a == 'y':
     os.system('sudo install ubuntu-mainline-kernel.sh /usr/local/bin/')
     os.system('sudo ubuntu-mainline-kernel.sh -i')
 else:
-    os.system('sudo ./ubuntu-mainline-kernel.sh -i')
+    os.system('sudo ubuntu-mainline-kernel.sh -i')
